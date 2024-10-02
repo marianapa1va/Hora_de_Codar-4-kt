@@ -1,4 +1,4 @@
-# Hora de Codar 4-kt - Um novo dia para Codar 
+# Hora de Codar 4-kt : Um novo dia para Codar 
 
 1. Crie um programa onde o usuário possa cadastrar estudantes sem limites, e, em seguida, Se o usuário digitar "PARE" o programa deve exibir a quantidade de estudantes cadastrados e a lista com cada um deles. 
 
